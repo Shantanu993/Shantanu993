@@ -1,6 +1,6 @@
 ### Hi there, I am Shantanu, an aspiring MERN Stack Developer👋
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+### img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 # 💫 About Me:
 🔭 I’m currently working on enhancing my backend skills !<br>👯 I’m looking to collaborate on full stack projects !<br>🤝 I’m looking for help with Blockchain !<br>🌱 I’m currently learning Cloud, Blockchain, Firebase !<br>💬 Ask me about Front-End Development !<br>

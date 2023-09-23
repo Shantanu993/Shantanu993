@@ -1,4 +1,16 @@
 ### Hi there, I am Shantanu, an aspiring MERN Stack Developer👋
+<br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=4000&pause=1000&color=29F75E&background=0702FF00&center=true&width=435&lines=Welcome+To+My+Github+Profile+" alt="Typing SVG" /></a></p>
+<br>
+<img align="right"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="left"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<p align="center" ><img 
+ src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%"></p>
+ <br>
+ <br>
+ <span style="color:white">
 
 # 💫 About Me:
 🔭 I’m currently working on enhancing my backend skills !<br>👯 I’m looking to collaborate on full stack projects !<br>🤝 I’m looking for help with Blockchain !<br>🌱 I’m currently learning Cloud, Blockchain, Firebase !<br>💬 Ask me about Front-End Development !<br>

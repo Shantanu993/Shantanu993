@@ -1,5 +1,5 @@
 <h1 style="color: blue;">Hi there 👋</h1>
-<h1 style="color: blue;">I am Shantanu, an aspiring MERN Stack Developer</h1>
+<h1 style="color: blue;">I am Shantanu, an aspiring MERN Stack Developer !</h1>
 <br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=4000&pause=1000&color=blue&background=0702FF00&center=true&width=435&lines=Welcome+To+My+Github+Profile+" alt="Typing SVG" /></a></p>

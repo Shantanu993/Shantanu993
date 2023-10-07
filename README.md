@@ -14,7 +14,7 @@
  <span style="color:white">
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing my backend skills !<br>👯 I’m looking to collaborate on full stack projects !<br>🤝 I’m looking for help with Blockchain !<br>🌱 I’m currently learning Cloud, Blockchain, Firebase !<br>💬 Ask me about Front-End Development !<br>
+🔭 I’m currently working on enhancing my backend skills !<br>👯 I’m looking to collaborate on full stack projects !<br>🤝 I’m looking for help with Blockchain !<br>🌱 I’m currently learning Node JS !<br>💬 Ask me about Front-End Development !<br>
 
 
 ## 🌐 Socials:

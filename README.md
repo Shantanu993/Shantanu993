@@ -1,4 +1,4 @@
-<h1 style="color: blue; text-align: center;">Hi there 👋</h1>
+<h1 style="color: blue;">Hi there 👋</h1>
 <h1 style="color: blue;">I am Shantanu, a MERN Stack Developer !</h1>
 <br>
 <p align="center">

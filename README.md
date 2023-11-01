@@ -14,7 +14,7 @@
  <span style="color:white">
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing my backend development skills !<br>👯 I’m looking forward to collaborate on Full Stack projects !<br>🤝 I’m exploring Cloud and WEB 3.0 !<br>🌱 I’m currently strengthening Backend development and cloud skills !<br>💬 Ask me about Full-Stack Development !<br>
+🔭 I’m currently working on enhancing my backend development skills !<br>👯 I’m looking forward to collaborate on Full Stack projects !<br>🤝 I’m currently exploring Cloud Computing !<br>🌱 I’m currently strengthening Backend development and cloud skills !<br>💬 Ask me about Full-Stack Development !<br>
 
 
 ## 🌐 Socials:

@@ -15,7 +15,7 @@
 
 # 💫 About Me:
 I'm a sophomore pursuing BTech in Computer Science !<br>
-🔭 I’m currently working on my backend skills !<br>👯 I’m open to collaborate on Full Stack projects !<br>🤝 I’m currently exploring Cloud Computing !<br>🌱 I’m currently strengthening Backend development and cloud skills !<br>💬 Ask me about Full-Stack Development !<br>
+🔭 I’m currently working on my Backend Skills !<br>👯 I’m open to collaborate on Full Stack projects !<br>🤝 I’m currently exploring Cloud Computing !<br>🌱 I’m currently strengthening Backend Development and Cloud Skills !<br>💬 Ask me about Full-Stack Development !<br>
 
 
 ## 🌐 Socials:

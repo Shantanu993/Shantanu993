@@ -27,6 +27,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shantanu993&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shantanu993&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu993&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sadaf-A/Sadaf-A/output/snake.svg" alt="Snake animation"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shantanu993&theme=radical&no-frame=false&no-bg=true&margin-w=4)

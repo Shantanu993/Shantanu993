@@ -37,3 +37,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=Shantanu993&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @shantanu993's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shantanu993)](https://holopin.io/@shantanu993)

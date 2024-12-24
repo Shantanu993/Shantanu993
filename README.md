@@ -14,7 +14,7 @@
  <span style="color:white">
 
 # 💫 About Me:
-👾 I'm pursuing my BTech. in Computer Science and Engineering !<br>
+👾 I'm pursuing my Bachelor's in Computer Science and Engineering !<br>
 🔭 I’m currently working on my DevOps Skills !<br>👯 I’m open to collaborate on Full Stack web and app projects !<br>
 
 

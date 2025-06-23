@@ -1,4 +1,4 @@
-<h1 style="color: blue;">Hi There 👋</h1>
+<h1 style="color: blue;">Hello There 👋</h1>
 <h1 style="color: blue;">I am Shantanu, a Full Stack Web and App Developer !</h1>
 <br>
 <p align="center">

@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 👾 I'm pursuing my Bachelor's Degree in Computer Science and Engineering !<br>
-🔭 I’m currently working on my Applied AI, GenAI Skills !<br>👯 I’m open to collaborate on Full Stack web and app projects !<br>
+🔭 I’m currently working on my Applied AI, GenAI Skills !<br>👯 I’m open to collaborate on Full Stack web, app, GenAI projects !<br>
 
 
 ## 🌐 Socials:
